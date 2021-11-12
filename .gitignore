@@ -2,3 +2,5 @@ project-3_data-lakes-spark/.workspace-submit.json
 *.pyc
 *.DS_STORE
 */__pycache__/
+*.lck
+capstone_project/home/.workspace-config.json
